@@ -1,1 +1,3 @@
 # learning
+
+i hate programming
